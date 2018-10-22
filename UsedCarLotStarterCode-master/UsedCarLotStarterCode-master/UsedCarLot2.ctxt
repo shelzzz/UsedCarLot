@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=UsedCarLot2
+comment1.params=
+comment1.target=UsedCarLot2()
+comment2.params=p\ m\ ng\ cc\ v\ t\ y\ ma
+comment2.target=Car\ addCar(int,\ java.lang.String,\ int,\ boolean,\ java.lang.String,\ java.lang.String,\ int,\ java.lang.String)
+comment3.params=c
+comment3.target=Car\ removeCar(Car)
+comment3.text=\r\n\ removeCar\ takes\ a\ Car\ variable\ as\ a\ param,\ and\ returns\ a\ null\ pointer,\r\n\ thus\ setting\ the\ Car\ that\ you\ are\ trying\ to\ remove\ to\ null.\ \ Why\ can't\r\n\ we\ do\ this\ inside\ the\ method?\r\n\ To\ call\:\ c\=removeCar(c);\r\n\ @param\ c\ the\ car\ that\ you\ want\ to\ remove\r\n
+comment4.params=args
+comment4.target=void\ userInput(java.lang.String[])
+comment4.text=\r\n\ Just\ a\ test\ method\ to\ allow\ testing\ through\ Bluej\r\n\ @param\ n\ the\ car\ (c1,c2...)\ that\ you\ want\ to\ remove\r\n\ \ \ \ \ \r\n\ \ \ \ public\ \ void\ testRemove(int\ n){\r\n\ \ \ \ \ \ \ \ if\ (n\=\=1)\ {\ Car\ c1\=removeCar(c1);}\r\n\ \ \ \ \ \ \ \ if\ (n\=\=2)\ {\ Car\ c2\=removeCar(c2);}\r\n\ \ \ \ \ \ \ \ if\ (n\=\=3)\ {\ Car\ c3\=removeCar(c3);}\r\n}
+comment5.params=
+comment5.target=void\ filterCars()
+numComments=6
