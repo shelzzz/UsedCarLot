@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=AutoTransCar
+comment1.params=
+comment1.target=AutoTransCar()
+comment2.params=
+comment2.target=void\ toggleCruzControl()
+comment3.params=p\ m\ ccOn\ v\ t\ y\ ma
+comment3.target=AutoTransCar(int,\ java.lang.String,\ boolean,\ java.lang.String,\ java.lang.String,\ int,\ java.lang.String)
+comment4.params=cc
+comment4.target=void\ setCruzControl(boolean)
+comment5.params=
+comment5.target=boolean\ getCruzControl()
+numComments=6
