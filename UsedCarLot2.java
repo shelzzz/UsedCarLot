@@ -140,7 +140,7 @@ public class UsedCarLot2
    reply = in.nextLine();
    if (reply == "Y"){
      for (k=0;k<results.size();k++){
-        Car x = removeCar(results.get(k));
+        UsedCars.remove(results.get(k));
        }
     }
    if (reply == "N"){
